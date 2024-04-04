@@ -18,15 +18,15 @@ import Button from './components/button';
 
 const pages = [
   {
-    text: 'Tela 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    text: 'O React Native oferece inúmeras funcionalidades para o desenvolvimento de aplicativos móveis',
     image: require('./assets/criatividade.jpg'),
   },
   {
-    text: 'Tela 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    text: 'O React Native permite que você crie aplicativos verdadeiramente nativos e não compromete as experiências de seus usuários.',
     image: require('./assets/building.jpg'),
   },
   {
-    text: 'Tela 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    text: 'Criar versões específicas da plataforma de componentes Assim, uma única base de código pode compartilhar código entre plataformas.',
     image: require('./assets/qualidade.jpg'),
   },
 ];

@@ -6,7 +6,6 @@ import {
   } from 'react-native';
   import React from 'react';
   import Animated, {
-    // Extrapolate,
     SharedValue,
     Extrapolation,
     interpolate,
@@ -102,5 +101,6 @@ import {
       fontWeight: '600',
       lineHeight: 41,
       fontSize: 34,
+      marginLeft: 14,
     },
   });

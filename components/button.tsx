@@ -1,9 +1,6 @@
 import {
-    // ImageURISource,
     Pressable,
     StyleSheet,
-    // Text,
-    // View,
   } from 'react-native';
   import React, { useCallback } from 'react';
   import Animated, {
@@ -85,6 +82,7 @@ import {
       flexDirection: 'row',
       paddingHorizontal: 24,
       paddingVertical: 16,
+      marginBottom: 14,
       borderRadius: 100,
       backgroundColor: '#304FFE',
       alignItems: 'center',
